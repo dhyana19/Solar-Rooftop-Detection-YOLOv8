@@ -1,0 +1,17 @@
+# Primary Deep Learning / Computer Vision
+ultralytics
+opencv-python-headless
+scikit-image
+numpy
+torch
+
+# Geospatial Libraries
+rasterio
+fiona
+shapely
+geopandas
+
+# Utilities
+matplotlib
+Pillow
+tifffile
